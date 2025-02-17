@@ -1,6 +1,8 @@
 # kitchen_companion
 
-A new Flutter project.
+A smart, all-in-one companion for your culinary journey
+
+Includes recipe management, pantry inventory management, and a smart scheduler for cooking 
 
 ## Getting Started
 
